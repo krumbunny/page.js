@@ -27,6 +27,10 @@ page()
   $ bower install visionmedia/page.js
   ```
 
+## Local changes by Ken
+
+Every so often some local things need to be done
+
 ## Running examples
 
   To run examples do the following to install dev dependencies and run the example server:
